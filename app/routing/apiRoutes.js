@@ -58,7 +58,8 @@ module.exports = function (app) {
             totalDifference += Math.abs(sum - bfriendScore);
             console.log(" -------------------> " + totalDifference);
 
-            //     // We calculate the difference between the scores and sum them into the totalDifference
+            //     // We calculate the difference between the scores and 
+            sum them into the totalDifference
             //     totalDifference += Math.abs(sum - parseInt(friends[i].scores[j]));
             //     console.log(friends[i].scores[j] + " Friends Scores");
 
